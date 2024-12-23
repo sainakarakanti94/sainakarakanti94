@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sainakarakanti94
+- 👋 Hi, I’m @tomy
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-sainakarakanti94/sainakarakanti94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tomy94/tomy94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
